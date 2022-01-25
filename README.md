@@ -1,3 +1,6 @@
+https://lassejon.github.io/iPortfolio/
+
+
 - 👋 Hi, I’m @lassejon
 - 👀 I’m interested in backend development and data engineering
 - 🌱 I’m currently learning fullstack development via The Odin Project
